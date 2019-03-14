@@ -1,0 +1,6 @@
+D:\Rakesh\MyProjects\FTPFileUpload\FTPFileUpload\bin\Debug\FTPFileUpload.exe.config
+D:\Rakesh\MyProjects\FTPFileUpload\FTPFileUpload\bin\Debug\FTPFileUpload.exe
+D:\Rakesh\MyProjects\FTPFileUpload\FTPFileUpload\bin\Debug\FTPFileUpload.pdb
+D:\Rakesh\MyProjects\FTPFileUpload\FTPFileUpload\obj\Debug\FTPFileUpload.csprojResolveAssemblyReference.cache
+D:\Rakesh\MyProjects\FTPFileUpload\FTPFileUpload\obj\Debug\FTPFileUpload.exe
+D:\Rakesh\MyProjects\FTPFileUpload\FTPFileUpload\obj\Debug\FTPFileUpload.pdb
